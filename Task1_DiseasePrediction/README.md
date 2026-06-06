@@ -206,6 +206,4 @@ Developed as part of the Machine Learning Internship at CodeAlpha.
 
 
 
-## 📞 Questions?
 
-Feel free to reach out via LinkedIn or create an issue in the repository.
