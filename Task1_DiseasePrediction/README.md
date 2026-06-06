@@ -187,3 +187,13 @@ Through this project:
 This project successfully demonstrates the use of Machine Learning in healthcare analytics. Multiple classification algorithms were trained and evaluated for diabetes prediction. SMOTE was used to handle class imbalance, and model comparison helped identify the most effective prediction model.
 
 The project highlights the importance of data preprocessing, model evaluation, and comparative analysis in building reliable healthcare prediction systems.
+
+👤 Author
+Goutham Vinjamuri
+
+ML Intern | [LinkedIn Profile](www.linkedin.com/in/goutham-vinjamuri-902787326)
+
+Developed as part of the Machine Learning Internship at CodeAlpha.
+
+📄 License
+This project is open-source and available under the MIT License.
