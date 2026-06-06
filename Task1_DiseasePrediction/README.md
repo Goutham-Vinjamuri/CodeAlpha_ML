@@ -203,7 +203,10 @@ ML Intern | [LinkedIn Profile](https://www.linkedin.com/in/goutham-vinjamuri-902
 Developed as part of the Machine Learning Internship at CodeAlpha.
 
 ---
-
+## 📄 License
+ 
+This project is open-source and available under the MIT License.
+---
 
 
 
